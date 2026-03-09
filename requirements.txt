@@ -1,0 +1,12 @@
+# ============================================================
+#  BOT COMPARADOR DE APUESTAS — GUÍA COMPLETA DE DESPLIEGUE
+# ============================================================
+
+# ─────────────── requirements.txt ───────────────
+python-telegram-bot==20.7
+selenium==4.18.1
+pandas==2.2.1
+scikit-learn==1.4.1
+unidecode==1.3.8
+apscheduler==3.10.4
+SQLAlchemy==2.0.29  # opcional, por si migras a PostgreSQL
